@@ -1,7 +1,7 @@
 body {
     font-family: 'Special Elite', serif;
-    font-size: 30px;
-    text-shadow: 4px 4px 4px #aaa;
+    font-size: 20px;
+    /*text-shadow: 4px 4px 4px #aaa;*/
 }
 section {
     width: 100%;
@@ -19,6 +19,9 @@ section {
     background-attachment: fixed;
     background-size: 100%;
 }
+#hero .container{
+    /*margin-top: 8%;*/
+}
 #trunk{
     background-image: url("/Guitarissimo/Assets/Img/tree-trunk.jpg");
     background-repeat: no-repeat;
@@ -28,7 +31,9 @@ section {
     text-align: center;
 
 }
-
+#trunk .container{
+    margin-top: 8%;
+}
 #trunk .section-header{
     background-color: rgba(189, 58, 58, 0.4);
     border-radius: 10px;
@@ -44,7 +49,6 @@ section {
 .videoWrap{
     text-align: center;
     width: 100%;
-    vertical-align: middle;
     height: auto;
 }
 
