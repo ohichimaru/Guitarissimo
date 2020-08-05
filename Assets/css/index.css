@@ -19,9 +19,7 @@ section {
     /* background-attachment: fixed; */
     background-size: 100%;
 }
-#hero .container{
-    /*margin-top: 8%;*/
-}
+
 #trunk{
     background-image: url("/Guitarissimo/Assets/Img/tree-trunk.jpg");
     background-repeat: no-repeat;
