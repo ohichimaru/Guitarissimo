@@ -14,6 +14,12 @@ section {
     background-attachment: fixed;
     background-size: 100%;
 }
+#trunk{
+    background-image: url("/Guitarissimo/Assets/Img/tree-trunk.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
 #root{
     background-image: url("/Guitarissimo/Assets/Img/tree-roots.jpg");
     background-repeat: no-repeat;
