@@ -44,6 +44,8 @@ section {
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
     background-size: 100%;
+
+    text-align: center;
 }
 
 #root .section-header{
