@@ -55,3 +55,8 @@ section {
 .videoWrap iframe{
     width: 100%;
 }
+
+#credit{
+    background-color: rgba(169, 169, 169, 0.6);
+
+}
