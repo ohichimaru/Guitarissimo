@@ -16,7 +16,7 @@ section {
 #hero{
     background-image: url("/Guitarissimo/Assets/Img/tree-top.jpg");
     background-repeat: no-repeat;
-    background-attachment: auto;
+    /* background-attachment: fixed; */
     background-size: 100%;
 }
 #hero .container{
@@ -25,7 +25,7 @@ section {
 #trunk{
     background-image: url("/Guitarissimo/Assets/Img/tree-trunk.jpg");
     background-repeat: no-repeat;
-    background-attachment: auto;
+    /*background-attachment: fixed; */
     background-size: 100%;
 
     text-align: center;
@@ -42,7 +42,7 @@ section {
 #root{
     background-image: url("/Guitarissimo/Assets/Img/tree-roots.jpg");
     background-repeat: no-repeat;
-    background-attachment: auto;
+    /* background-attachment: fixed; */
     background-size: 100%;
 }
 
