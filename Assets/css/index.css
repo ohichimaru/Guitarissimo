@@ -110,3 +110,28 @@ a:visited {
     background: #3b579d;
     color: #ffffff
 }
+
+.btn-youtube {
+    background: #e52d27;
+    color: #ffffff
+}
+.btn-instagram {
+    background: #dc4a38;
+    color: #ffffff
+}
+.btn-facebook:hover,
+.btn-facebook:focus {
+    background: #2d4278;
+    color: #ffffff
+}
+
+.btn-youtube:hover,
+.btn-youtube:focus {
+    background: #c21d17;
+    color: #ffffff
+}
+.btn-instagram:hover,
+.btn-instagram:focus {
+    background: #bf3322;
+    color: #ffffff
+}
