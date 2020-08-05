@@ -65,4 +65,13 @@ section {
 
 #credit {
     margin-top: 1%;
+    background-color: rgba(169, 169, 169, 0.65);
+}
+
+#back {
+    background-color: white;
+}
+
+#back .section-header{
+    background-color: rgba(169, 169, 169, 0.65);
 }
