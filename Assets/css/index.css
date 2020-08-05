@@ -21,7 +21,7 @@ section {
 }
 #trunk{
     background-image: url("/Guitarissimo/Assets/Img/tree-trunk.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
     background-size: 100%;
 }
