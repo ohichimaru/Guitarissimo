@@ -1,0 +1,57 @@
+body {
+    font-family: 'Special Elite', serif;
+    font-size: 20px;
+    /*text-shadow: 4px 4px 4px #aaa;*/
+}
+section {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: none;
+    /*background-color: #373B44;*/
+    height: 100vh;
+
+}
+#hero{
+    background-image: url("/Guitarissimo/Assets/Img/tree-top.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+#hero .container{
+    /*margin-top: 8%;*/
+}
+#trunk{
+    background-image: url("/Guitarissimo/Assets/Img/tree-trunk.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+    text-align: center;
+
+}
+#trunk .container{
+    margin-top: 8%;
+}
+#trunk .section-header{
+    background-color: rgba(189, 58, 58, 0.4);
+    border-radius: 10px;
+}
+
+#root{
+    background-image: url("/Guitarissimo/Assets/Img/tree-roots.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.videoWrap{
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.videoWrap iframe{
+    width: 100%;
+}
