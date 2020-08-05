@@ -56,7 +56,6 @@ section {
     width: 100%;
 }
 
-#credit{
-    background-color: rgba(169, 169, 169, 0.6);
-
+#credit .container{
+    background-color: rgba(169, 169, 169, 0.75);
 }
