@@ -1,6 +1,6 @@
 body {
     font-family: 'Special Elite', serif;
-    font-size: 48px;
+    font-size: 30px;
     text-shadow: 4px 4px 4px #aaa;
 }
 section {
@@ -24,6 +24,8 @@ section {
     background-repeat: repeat;
     background-attachment: fixed;
     background-size: 100%;
+
+    text-align: center;
 }
 #root{
     background-image: url("/Guitarissimo/Assets/Img/tree-roots.jpg");
