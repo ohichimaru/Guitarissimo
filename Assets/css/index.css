@@ -1,13 +1,16 @@
-#hero {
-    background: url(/Guitarissimo/Assets/Img/tree-top.jpg) no-repeat fixed;
-    background-size: cover;
-    min-height: 100%;
-    background-position: top;
-    text-align: center;
-    /* Set up proportionate scaling */
+section {
     width: 100%;
-    height: auto;
-    /* Set up positioning */
-    top: 0;
-    left: 0;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: none;
+    background-color: #373B44;
+    height: 100vh;
+
+}
+#hero{
+    background-image: url("/hong/img/tree-top.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
 }
