@@ -4,7 +4,7 @@ section {
     display: table;
     margin: 0;
     max-width: none;
-    background-color: #373B44;
+    /*background-color: #373B44;*/
     height: 100vh;
 
 }
@@ -19,4 +19,15 @@ section {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
+}
+
+.videoWrap{
+    text-align: center;
+    width: 100%;
+    vertical-align: middle;
+    height: auto;
+}
+
+.videoWrap iframe{
+    width: 100%;
 }
